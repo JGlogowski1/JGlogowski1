@@ -12,7 +12,7 @@ As an **IT Programming** student approaching the completion of my second and fin
 
 ## Language Showcases
 - [C Showcase](link_to_C_showcase)
-- [C++ Showcase](link_to_C++_showcase)
+- [C++ Showcase](https://github.com/JGlogowski1/Cpp)
 - [C# Showcase](link_to_C#_showcase)
 - [Java Showcase](link_to_Java_showcase)
 - [Python Showcase](link_to_Python_showcase)
