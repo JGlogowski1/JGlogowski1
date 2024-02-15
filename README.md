@@ -11,7 +11,6 @@
 As an **IT Programming** student approaching the completion of my second and final year, I have developed a strong foundation in programming languages and am eager to excel in the **Information Technology** and **Software Development** industry. With hands-on experience in **web application development** and **software engineering**, I possess a versatile skill set ready to tackle real-world challenges. My educational journey includes studies at **NSCC COGS**, where I've focused on **IT programming**.
 
 ## 📫 CONTACT
-You can reach me at:
 - Email: Josephglogowski@icloud.com
 - Phone: (902)579-1999
 
@@ -31,10 +30,9 @@ You can reach me at:
 ✈️ Collaborating on an **airline reservation system** in **C++** within a team, utilizing classes for managing people and planes.
 
 ## 📚 CURRENTLY LEARNING
-🖥️ Exploring advanced topics in **C++** such as **multithreading**, **signal handling**, **standard libraries**, and **web programming**.
-
 🤖 Seeking to expand my knowledge in **AI** and **machine learning**, I am embarking on a self-directed study project to explore foundational concepts in **Machine Learning** and **Artificial Intelligence**. Through online courses, I aim to gain proficiency in **supervised learning**, **regression**, and **classification**, with the goal of applying this newfound knowledge to practical projects and furthering my skills in these areas.
 
+🖥️ Exploring advanced topics in **C++** such as **multithreading**, **signal handling**, **standard libraries**, and **web programming**.
 
 ## 🆘 LOOKING FOR HELP WITH
 🛠️ Exploring opportunities for work terms to complete my schooling and transitioning into the **IT field**.
