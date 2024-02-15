@@ -39,7 +39,7 @@ As an **IT Programming** student approaching the completion of my second and fin
 
 🧑‍🏫 Additionally, I am seeking guidance from a mentor to navigate my career path and provide valuable insights into the industry.
 
-## 🙋 PRONOUNS
+## 👨‍💼 PRONOUNS
 **He/Him**
 
 ## ♟️ FUN FACT
