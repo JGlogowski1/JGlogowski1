@@ -2,7 +2,7 @@
   <span>🎓 Student: IT Programming</span> <br>
   <span>📅 Year: Second</span> <br>
   <span>💻 Skills: C, C++, C#, Java, Python, HTML, CSS, JavaScript, Git, Networking, Problem Solving, Web Development, WordPress</span> <br>
-  <span>🛠️ Experience: Ecommerce Course Development, Forklift Operation</span> <br>
+  <span>🛠️ Experience: Computerized Business Solutions</span> <br>
   <span>🎓 Education: NSCC COGS, Acadia University</span>
 </div>
 
