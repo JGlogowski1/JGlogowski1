@@ -10,6 +10,17 @@
 
 As an **IT Programming** student approaching the completion of my second and final year, I have developed a strong foundation in programming languages and am eager to excel in the **Information Technology** and **Software Development** industry. With hands-on experience in **web application development** and **software engineering**, I possess a versatile skill set ready to tackle real-world challenges. My educational journey includes studies at **NSCC COGS**, where I've focused on **IT programming**.
 
+## Language Showcases
+- [C Showcase](link_to_C_showcase)
+- [C++ Showcase](link_to_C++_showcase)
+- [C# Showcase](link_to_C#_showcase)
+- [Java Showcase](link_to_Java_showcase)
+- [Python Showcase](link_to_Python_showcase)
+- [HTML Showcase](link_to_HTML_showcase)
+- [CSS Showcase](link_to_CSS_showcase)
+- [JavaScript Showcase](link_to_JavaScript_showcase)
+
+
 
 ## 🔭 CURRENTLY WORKING ON
 🌱 Developing a **Smart Plant Care System** using **Arduino** to monitor and control plant health.
