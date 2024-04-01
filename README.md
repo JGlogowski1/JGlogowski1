@@ -1,3 +1,7 @@
+# Joe Glogowski
+---
+
+<!-- 
 <div align="center">
   <span>🎓 Student: IT Programming</span> <br>
   <span>📅 Year: Second</span> <br>
@@ -6,7 +10,9 @@
   <span>🎓 Education: NSCC COGS</span>
 </div>
 
-# 👨‍💻 ABOUT ME: Joseph Glogowski
+-->
+
+# 👨‍💻 ABOUT ME
 
 As an **IT Programming** student approaching the completion of my second and final year, I have developed a strong foundation in programming languages and am eager to excel in the **Information Technology** and **Software Development** industry. With hands-on experience in **web application development** and **software engineering**, I possess a versatile skill set ready to tackle real-world challenges. My educational journey includes studies at **NSCC COGS**, where I've focused on **IT programming**.
 
