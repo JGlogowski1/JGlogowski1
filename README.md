@@ -38,6 +38,7 @@ My goal is to excel in the **Information Technology** and **Software Development
 
 ## 🔭 CURRENTLY WORKING ON
 🌱 Developing a **Smart Plant Care System** using **Arduino** to monitor and control plant health.
+
 ✈️ Collaborating on an **airline reservation system** in **C++** within a team, utilizing classes for managing people and planes.
 
 ## 📚 CURRENTLY LEARNING
@@ -45,10 +46,17 @@ My goal is to excel in the **Information Technology** and **Software Development
 
 🖥️ Exploring advanced topics in **C++** such as **multithreading**, **signal handling**, **standard libraries**, and **web programming**.
 
-## 🆘 LOOKING FOR HELP WITH
-🛠️ Exploring opportunities for work terms to complete my schooling and transitioning into the **IT field**.
+## 🤹‍♂️ Skills
 
-🧑‍🏫 Additionally, I am seeking guidance from a mentor to navigate my career path and provide valuable insights into the industry.
+|                   |                   |                   |                   |
+|-------------------|-------------------|-------------------|-------------------|
+| C                 | C++               | Python            | Java              |
+| HTML              | CSS               | JavaScript        | Networking        |
+| Database          | App Development   | Project Management| Git               |
+| Windows           | Linux             | Problem Solving   | Communication     |
+
+
+
 
 ## 👨‍💼 PRONOUNS
 **He/Him**
