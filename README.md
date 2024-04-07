@@ -23,7 +23,7 @@ My goal is to excel in the **Information Technology** and **Software Development
 - Phone: (902)579-1999
 
 ## 📜 RESUME
-### [RESUME](link_to_resume)
+### [RESUME]](https://github.com/JGlogowski1/Resume))
 
 ## Language Showcases
 - [C Showcase](link_to_C_showcase)
