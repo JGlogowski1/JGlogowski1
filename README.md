@@ -26,15 +26,16 @@ My goal is to excel in the **Information Technology** and **Software Development
 ### [RESUME](https://github.com/JGlogowski1/Resume/blob/main/ResumeJG.pdf)
 
 ## Language Showcases
-- [C Showcase](link_to_C_showcase)
 - [C++ Showcase](https://github.com/JGlogowski1/Cpp)
+<!-- 
+- [C Showcase](link_to_C_showcase)
 - [C# Showcase](link_to_C#_showcase)
 - [Java Showcase](link_to_Java_showcase)
 - [Python Showcase](link_to_Python_showcase)
 - [HTML Showcase](link_to_HTML_showcase)
 - [CSS Showcase](link_to_CSS_showcase)
 - [JavaScript Showcase](link_to_JavaScript_showcase)
-
+-->
 
 ## 🔭 CURRENTLY WORKING ON
 🌱 Developing a **Smart Plant Care System** using **Arduino** to monitor and control plant health.
