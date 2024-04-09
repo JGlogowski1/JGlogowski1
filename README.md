@@ -25,6 +25,9 @@ My goal is to excel in the **Information Technology** and **Software Development
 ## 📜 RESUME
 ### [RESUME](https://github.com/JGlogowski1/Resume/blob/main/ResumeJG.pdf)
 
+## ⚒ Work Expierience
+### [Computerized Business Solutions](link to page)
+
 ## Language Showcases
 - [C++ Showcase](https://github.com/JGlogowski1/Cpp)
 <!-- 
