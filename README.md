@@ -13,7 +13,7 @@
 
 ## 👨‍💻 ABOUT ME
 
-As an **IT Programming** student approaching the completion of my second and final year, I have developed a strong foundation in programming languages and am eager to excel in the **Information Technology** and **Software Development** industry. With hands-on experience in **web application development** and **software engineering**, I possess a versatile skill set ready to tackle real-world challenges. My educational journey includes studies at **NSCC COGS**, where I've focused on **IT programming**. 
+As an **IT Programming** student approaching the completion of my second and final year, I have developed a strong foundation in programming languages and am eager to excel in the **Information Technology** and **Software Development** industry. I possess a versatile skill set ready to tackle real-world challenges. My educational journey includes studies at **NSCC COGS**, where I've studied **IT programming**. 
 
 ## 🏆 CAREER GOAL
 My goal is to excel in the **Information Technology** and **Software Development** industry. I aim to secure a position where I can continue to learn and grow, eventually advancing into leadership roles where I can drive technological advancements and make a meaningful impact.
@@ -54,8 +54,6 @@ My goal is to excel in the **Information Technology** and **Software Development
 | HTML              | CSS               | JavaScript        | Networking        |
 | Database          | App Development   | Project Management| Git               |
 | Windows           | Linux             | Problem Solving   | Communication     |
-
-
 
 
 ## 👨‍💼 PRONOUNS
