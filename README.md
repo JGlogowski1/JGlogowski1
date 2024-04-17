@@ -20,7 +20,7 @@ My goal is to excel in the **Information Technology** and **Software Development
 
 ## 📫 CONTACT
 - Email: Josephglogowski@icloud.com
-- Phone: (902)579-1999
+<!-- - Phone: (902)579-1999 -->
 
 ## 📜 RESUME
 ### [RESUME](https://github.com/JGlogowski1/Resume/blob/main/ResumeJG.pdf)
