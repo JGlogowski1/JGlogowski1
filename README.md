@@ -8,12 +8,11 @@
   <span>🛠️ Experience: Computerized Business Solutions</span> <br>
   <span>🎓 Education: NSCC COGS</span>
 </div>
-
 -->
 
 ## 👨‍💻 ABOUT ME
 
-As an **IT Programming** student approaching the completion of my second and final year, I have developed a strong foundation in programming languages and am eager to excel in the **Information Technology** and **Software Development** industry. I possess a versatile skill set ready to tackle real-world challenges. My educational journey includes studies at **NSCC COGS**, where I've studied **IT programming**. 
+As an **IT Programming** graduate, I have developed a strong foundation in programming languages and am eager to excel in the **Information Technology** and **Software Development** industry. I possess a versatile skill set ready to tackle real-world challenges. My educational journey includes studies at **NSCC COGS**.
 
 ## 🏆 CAREER GOAL
 My goal is to excel in the **Information Technology** and **Software Development** industry. I aim to secure a position where I can continue to learn and grow, eventually advancing into leadership roles where I can drive technological advancements and make a meaningful impact.
@@ -25,7 +24,7 @@ My goal is to excel in the **Information Technology** and **Software Development
 ## 📜 RESUME
 ### [RESUME](https://github.com/JGlogowski1/Resume/blob/main/ResumeJG.pdf)
 
-## ⚒ Work Expierience
+## ⚒ Work Experience
 ### [Computerized Business Solutions](https://github.com/JGlogowski1/WorkExperience/tree/main/ComputerizedBusinessSolutions)
 
 ## Language Showcases
@@ -40,15 +39,10 @@ My goal is to excel in the **Information Technology** and **Software Development
 - [JavaScript Showcase](link_to_JavaScript_showcase)
 -->
 
-## 🔭 CURRENTLY WORKING ON
-🌱 Developing a **Smart Plant Care System** using **Arduino** to monitor and control plant health.
-
-✈️ Collaborating on an **airline reservation system** in **C++** within a team, utilizing classes for managing people and planes.
-
 ## 📚 CURRENTLY LEARNING
-🤖 Seeking to expand my knowledge in **AI** and **machine learning**, I am embarking on a self-directed study project to explore foundational concepts in **Machine Learning** and **Artificial Intelligence**. Through online courses, I aim to gain proficiency in **supervised learning**, **regression**, and **classification**, with the goal of applying this newfound knowledge to practical projects and furthering my skills in these areas.
+📜 Pursuing an **AWS Certified Cloud Practitioner** certificate.
 
-🖥️ Exploring advanced topics in **C++** such as **multithreading**, **signal handling**, **standard libraries**, and **web programming**.
+🛠️ Working towards a **GitHub Foundations** certificate.
 
 ## 🤹‍♂️ Skills
 
@@ -59,10 +53,8 @@ My goal is to excel in the **Information Technology** and **Software Development
 | Database          | App Development   | Project Management| Git               |
 | Windows           | Linux             | Problem Solving   | Communication     |
 
-
 ## 👨‍💼 PRONOUNS
 **He/Him**
 
 ## ♟️ FUN FACT
 I enjoy playing chess from time to time.
-
